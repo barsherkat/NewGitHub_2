@@ -12,7 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //ddddddddddddddddd
         int a=4+9;
         Log.e("TAG",String.valueOf(a));
 
