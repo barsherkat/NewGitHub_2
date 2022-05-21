@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
         //ddddddddddddddddd
         int a=4+9;
         Log.e("TAG",String.valueOf(a));
-        //github_2
-//ffffffffffffffffff
+
     }
 }
